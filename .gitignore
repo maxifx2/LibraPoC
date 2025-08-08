@@ -185,3 +185,4 @@ cython_debug/
 
 # Archivos y carpetas generadas
 pruebas/
+output/
